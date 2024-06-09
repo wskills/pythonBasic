@@ -1,0 +1,28 @@
+﻿# Prompt the user to enter a word
+# and assign it to the user_word variable.
+
+user_word = input("Please enter a word : ")
+
+user_word = user_word.upper()
+
+for letter in user_word:
+    # Complete the body of the for loop.
+    
+    # METHOD 1
+    # if letter in "AEIOU" :
+    #     continue
+    # print(letter)
+    
+    # METHOD 2
+    if letter == "A":
+        continue
+    elif letter == "E":
+        continue
+    elif letter == "I":
+        continue
+    elif letter == "O":
+        continue
+    elif letter == "U":
+        continue
+    
+    print(letter)

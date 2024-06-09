@@ -1,0 +1,13 @@
+﻿print("    *", "    *", sep="\t\t", end="\n")
+print("   * *", "   * *", sep="\t\t", end="\n")
+print("  *   *", "  *   *", sep="\t\t", end="\n")
+print(" *     *", " *     *", sep="\t", end="\n")
+print("***   ***", "***   ***", sep="\t", end="\n")
+print("  *   *", "  *   *", sep="\t\t", end="\n")
+print("  *   *", "  *   *", sep="\t\t", end="\n")
+print("  *****", "  *****", sep="\t\t", end="\n")
+
+# print("    *","   * *","  *   *"," *     *",sep="\n",end="\n")
+# print("*" * 3,"*" * 3,sep="   ",end="\n")
+# print("  *   *\n" * 2,end="")
+# print("  *****\n")
